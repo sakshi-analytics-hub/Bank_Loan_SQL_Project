@@ -94,6 +94,7 @@ CUSTOMERS (1) ──< LOANS (1) ──< PAYMENTS
 11. What is the average loan amount for each loan type?  
 
 12. What is the monthly trend of payments?
+    
 
 ##Conclusion
 
