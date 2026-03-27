@@ -99,3 +99,6 @@ CUSTOMERS (1) ──< LOANS (1) ──< PAYMENTS
 ##Conclusion
 
 This project uses SQL to analyze bank loan data, uncovering trends in customer behavior, loan approvals, and default risks. The insights gained can help banks make informed, data-driven decisions for loan management and risk assessment.
+
+##Created By
+Sakshi Runghe
